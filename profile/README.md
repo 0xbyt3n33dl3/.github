@@ -1,6 +1,8 @@
-<a href="https://github.com/byt3n33dl3"><p align="center">
-<img src="https://github.com/byt3n33dl3/byt3n33dl3/blob/main/stylesheet/img/adverx.png">
-</p></a>
+<p align="center">
+  <a href="https://github.com/byt3n33dl3">
+    <img src="https://raw.githubusercontent.com/byt3n33dl3/byt3n33dl3/main/stylesheet/img/adverx.png" width="200"/>
+  </a>
+</p>
 
 <div align="center">
   <a href="https://byt3.guru">byt3.guru</a> •
